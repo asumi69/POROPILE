@@ -1,0 +1,167 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    background-color: aqua;
+}
+.first{
+    width: 30%;
+    height: 100%;
+    background-color: aqua;
+    border: 5px;
+    border-style:solid;
+    border-right-color: black;
+;
+   
+}
+.second{
+    width: 80%;
+    height: 100%;
+    background-color: ;
+    border: 5px;
+    border-style:solid;
+    border-right-color: black;
+}
+.neg{
+    width: 90%;
+    height: 20%;
+    background-color: ;
+    border: 3px;
+    border-style: ;
+    border-color: ;
+    border-radius: 50px;
+    margin: 10px;
+}
+.hoyor{
+    width: 90%;
+    height: 25%;
+    background-color: ;
+    margin: 10px;
+    
+}
+.gurav{
+    width: 90%;
+    height: 5%;
+    background-color: ;
+    
+}
+.duruv{
+    width: 90%;
+    height: 35%;
+    background-color: ;
+    margin:10px;
+}
+.neg img{
+    width: 80%;
+    height: 100%;
+    
+    border-radius: 150px;
+    border-style: solid;
+    border-color: black;
+}
+.uno{
+    width: 100%;
+    height: 25%;
+    background-color: white;
+    border-radius: 5px;
+    border: 3px;
+    border-style: solid;
+    border-color: black;
+    margin: 1px;
+}
+.two{
+    width: 100%;
+    height: 25%;
+    background-color: white;
+    border: 3px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 5px;
+    margin: 1px;
+}
+.three{
+    width: 100%;
+    height: 25%;
+    background-color: white;
+    border: 3px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 5px;
+    margin: 1px;
+}
+.four{
+    width: 100%;
+    height: 15%;
+    background-color: white;
+    border: 3px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 5px;
+}
+.uno h1{
+    color:aqua;
+}
+.two h1{
+    color:aqua;
+}
+.three h1{
+    color: aqua;
+}
+.four h3{
+    color: aqua;
+
+}
+.duruv img{
+    width: 100%;
+    height: 100%;
+}
+.durvuljin{
+    width: 100%;
+    height: 10%;
+    background-color: blue;
+}
+.durvuljin h1{
+    color: aqua;
+    font-size: 90px;
+}
+.ahad{
+    width: 100%;
+    height: 30%;
+    background-color: white;
+    border: 3px;
+    border-style: solid;
+    border-color: black;
+}
+.ahad h1{
+    color: aqua;
+    font-size: 38px;
+}
+.nuguu{
+    width: 100%;
+    height: 30%;
+    background-color: white;
+    border: 3px;
+    border-style: solid;
+    border-color: black;
+}
+.nuguu h1{
+    color: aqua;
+    border-radius: 5px;
+    font-size: 60px;
+}
+.gurvalshin{
+    width: 100%;
+    height: 30%;
+    background-color: aqua;
+    border: 3px;
+    border-style: solid;
+    border-color: black;
+}
+.gurvalshin img{
+    width: 100%;
+    height: 100%;
+}
